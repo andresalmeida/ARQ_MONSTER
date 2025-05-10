@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConUni_Con_DotNet_G02/1.0.0": {
+        "runtime": {
+          "ConUni_Con_DotNet_G02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConUni_Con_DotNet_G02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

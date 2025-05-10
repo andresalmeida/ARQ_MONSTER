@@ -1,0 +1,14 @@
+C:\Users\ChickenNugget\Documents\REPOSITORIO\ARQ\00.SOA_SIN_BDD_GR02\02.SOAP_DOTNET_CONUNI_GR02\02.CLICON\ConUni_Con_DotNet_G02\bin\Debug\net8.0\ConUni_Con_DotNet_G02.exe
+C:\Users\ChickenNugget\Documents\REPOSITORIO\ARQ\00.SOA_SIN_BDD_GR02\02.SOAP_DOTNET_CONUNI_GR02\02.CLICON\ConUni_Con_DotNet_G02\bin\Debug\net8.0\ConUni_Con_DotNet_G02.deps.json
+C:\Users\ChickenNugget\Documents\REPOSITORIO\ARQ\00.SOA_SIN_BDD_GR02\02.SOAP_DOTNET_CONUNI_GR02\02.CLICON\ConUni_Con_DotNet_G02\bin\Debug\net8.0\ConUni_Con_DotNet_G02.runtimeconfig.json
+C:\Users\ChickenNugget\Documents\REPOSITORIO\ARQ\00.SOA_SIN_BDD_GR02\02.SOAP_DOTNET_CONUNI_GR02\02.CLICON\ConUni_Con_DotNet_G02\bin\Debug\net8.0\ConUni_Con_DotNet_G02.dll
+C:\Users\ChickenNugget\Documents\REPOSITORIO\ARQ\00.SOA_SIN_BDD_GR02\02.SOAP_DOTNET_CONUNI_GR02\02.CLICON\ConUni_Con_DotNet_G02\bin\Debug\net8.0\ConUni_Con_DotNet_G02.pdb
+C:\Users\ChickenNugget\Documents\REPOSITORIO\ARQ\00.SOA_SIN_BDD_GR02\02.SOAP_DOTNET_CONUNI_GR02\02.CLICON\ConUni_Con_DotNet_G02\obj\Debug\net8.0\ConUni_Con_DotNet_G02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChickenNugget\Documents\REPOSITORIO\ARQ\00.SOA_SIN_BDD_GR02\02.SOAP_DOTNET_CONUNI_GR02\02.CLICON\ConUni_Con_DotNet_G02\obj\Debug\net8.0\ConUni_Con_DotNet_G02.AssemblyInfoInputs.cache
+C:\Users\ChickenNugget\Documents\REPOSITORIO\ARQ\00.SOA_SIN_BDD_GR02\02.SOAP_DOTNET_CONUNI_GR02\02.CLICON\ConUni_Con_DotNet_G02\obj\Debug\net8.0\ConUni_Con_DotNet_G02.AssemblyInfo.cs
+C:\Users\ChickenNugget\Documents\REPOSITORIO\ARQ\00.SOA_SIN_BDD_GR02\02.SOAP_DOTNET_CONUNI_GR02\02.CLICON\ConUni_Con_DotNet_G02\obj\Debug\net8.0\ConUni_Con_DotNet_G02.csproj.CoreCompileInputs.cache
+C:\Users\ChickenNugget\Documents\REPOSITORIO\ARQ\00.SOA_SIN_BDD_GR02\02.SOAP_DOTNET_CONUNI_GR02\02.CLICON\ConUni_Con_DotNet_G02\obj\Debug\net8.0\ConUni_Con_DotNet_G02.dll
+C:\Users\ChickenNugget\Documents\REPOSITORIO\ARQ\00.SOA_SIN_BDD_GR02\02.SOAP_DOTNET_CONUNI_GR02\02.CLICON\ConUni_Con_DotNet_G02\obj\Debug\net8.0\refint\ConUni_Con_DotNet_G02.dll
+C:\Users\ChickenNugget\Documents\REPOSITORIO\ARQ\00.SOA_SIN_BDD_GR02\02.SOAP_DOTNET_CONUNI_GR02\02.CLICON\ConUni_Con_DotNet_G02\obj\Debug\net8.0\ConUni_Con_DotNet_G02.pdb
+C:\Users\ChickenNugget\Documents\REPOSITORIO\ARQ\00.SOA_SIN_BDD_GR02\02.SOAP_DOTNET_CONUNI_GR02\02.CLICON\ConUni_Con_DotNet_G02\obj\Debug\net8.0\ConUni_Con_DotNet_G02.genruntimeconfig.cache
+C:\Users\ChickenNugget\Documents\REPOSITORIO\ARQ\00.SOA_SIN_BDD_GR02\02.SOAP_DOTNET_CONUNI_GR02\02.CLICON\ConUni_Con_DotNet_G02\obj\Debug\net8.0\ref\ConUni_Con_DotNet_G02.dll

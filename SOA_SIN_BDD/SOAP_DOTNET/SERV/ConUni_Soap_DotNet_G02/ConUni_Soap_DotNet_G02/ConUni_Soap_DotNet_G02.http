@@ -1,0 +1,6 @@
+@ConUni_Soap_DotNet_G02_HostAddress = http://localhost:5025
+
+GET {{ConUni_Soap_DotNet_G02_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

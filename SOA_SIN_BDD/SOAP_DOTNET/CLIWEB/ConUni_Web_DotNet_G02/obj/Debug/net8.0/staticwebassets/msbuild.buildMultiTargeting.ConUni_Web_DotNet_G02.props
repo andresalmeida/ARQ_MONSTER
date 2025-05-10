@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ConUni_Web_DotNet_G02.props" />
+</Project>

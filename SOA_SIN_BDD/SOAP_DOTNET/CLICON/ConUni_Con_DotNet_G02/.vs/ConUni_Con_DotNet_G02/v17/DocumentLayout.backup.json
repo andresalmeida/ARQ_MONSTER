@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ChickenNugget\\Documents\\REPOSITORIO\\ARQ\\00.SOA_SIN_BDD_GR02\\02.SOAP_DOTNET_CONUNI_GR02\\02.CLICON\\ConUni_Con_DotNet_G02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6641D580-0A11-4E23-90DA-E4EABC41E0F5}|ConUni_Con_DotNet_G02.csproj|c:\\users\\chickennugget\\documents\\repositorio\\arq\\00.soa_sin_bdd_gr02\\02.soap_dotnet_conuni_gr02\\02.clicon\\conuni_con_dotnet_g02\\views\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6641D580-0A11-4E23-90DA-E4EABC41E0F5}|ConUni_Con_DotNet_G02.csproj|solutionrelative:views\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6641D580-0A11-4E23-90DA-E4EABC41E0F5}|ConUni_Con_DotNet_G02.csproj|c:\\users\\chickennugget\\documents\\repositorio\\arq\\00.soa_sin_bdd_gr02\\02.soap_dotnet_conuni_gr02\\02.clicon\\conuni_con_dotnet_g02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6641D580-0A11-4E23-90DA-E4EABC41E0F5}|ConUni_Con_DotNet_G02.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6641D580-0A11-4E23-90DA-E4EABC41E0F5}|ConUni_Con_DotNet_G02.csproj|c:\\users\\chickennugget\\documents\\repositorio\\arq\\00.soa_sin_bdd_gr02\\02.soap_dotnet_conuni_gr02\\02.clicon\\conuni_con_dotnet_g02\\views\\loginview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6641D580-0A11-4E23-90DA-E4EABC41E0F5}|ConUni_Con_DotNet_G02.csproj|solutionrelative:views\\loginview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6641D580-0A11-4E23-90DA-E4EABC41E0F5}|ConUni_Con_DotNet_G02.csproj|c:\\users\\chickennugget\\documents\\repositorio\\arq\\00.soa_sin_bdd_gr02\\02.soap_dotnet_conuni_gr02\\02.clicon\\conuni_con_dotnet_g02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6641D580-0A11-4E23-90DA-E4EABC41E0F5}|ConUni_Con_DotNet_G02.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6641D580-0A11-4E23-90DA-E4EABC41E0F5}|ConUni_Con_DotNet_G02.csproj|c:\\users\\chickennugget\\documents\\repositorio\\arq\\00.soa_sin_bdd_gr02\\02.soap_dotnet_conuni_gr02\\02.clicon\\conuni_con_dotnet_g02\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6641D580-0A11-4E23-90DA-E4EABC41E0F5}|ConUni_Con_DotNet_G02.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cs",
+              "DocumentMoniker": "C:\\Users\\ChickenNugget\\Documents\\REPOSITORIO\\ARQ\\00.SOA_SIN_BDD_GR02\\02.SOAP_DOTNET_CONUNI_GR02\\02.CLICON\\ConUni_Con_DotNet_G02\\Views\\Index.cs",
+              "RelativeDocumentMoniker": "Views\\Index.cs",
+              "ToolTip": "C:\\Users\\ChickenNugget\\Documents\\REPOSITORIO\\ARQ\\00.SOA_SIN_BDD_GR02\\02.SOAP_DOTNET_CONUNI_GR02\\02.CLICON\\ConUni_Con_DotNet_G02\\Views\\Index.cs",
+              "RelativeToolTip": "Views\\Index.cs",
+              "ViewState": "AgIAAOIAAAAAAAAAAAAgwP8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T23:46:28.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\ChickenNugget\\Documents\\REPOSITORIO\\ARQ\\00.SOA_SIN_BDD_GR02\\02.SOAP_DOTNET_CONUNI_GR02\\02.CLICON\\ConUni_Con_DotNet_G02\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\ChickenNugget\\Documents\\REPOSITORIO\\ARQ\\00.SOA_SIN_BDD_GR02\\02.SOAP_DOTNET_CONUNI_GR02\\02.CLICON\\ConUni_Con_DotNet_G02\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAgwEEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T23:28:54.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginView.cs",
+              "DocumentMoniker": "C:\\Users\\ChickenNugget\\Documents\\REPOSITORIO\\ARQ\\00.SOA_SIN_BDD_GR02\\02.SOAP_DOTNET_CONUNI_GR02\\02.CLICON\\ConUni_Con_DotNet_G02\\Views\\LoginView.cs",
+              "RelativeDocumentMoniker": "Views\\LoginView.cs",
+              "ToolTip": "C:\\Users\\ChickenNugget\\Documents\\REPOSITORIO\\ARQ\\00.SOA_SIN_BDD_GR02\\02.SOAP_DOTNET_CONUNI_GR02\\02.CLICON\\ConUni_Con_DotNet_G02\\Views\\LoginView.cs",
+              "RelativeToolTip": "Views\\LoginView.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAcwPUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T23:26:52.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ChickenNugget\\Documents\\REPOSITORIO\\ARQ\\00.SOA_SIN_BDD_GR02\\02.SOAP_DOTNET_CONUNI_GR02\\02.CLICON\\ConUni_Con_DotNet_G02\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ChickenNugget\\Documents\\REPOSITORIO\\ARQ\\00.SOA_SIN_BDD_GR02\\02.SOAP_DOTNET_CONUNI_GR02\\02.CLICON\\ConUni_Con_DotNet_G02\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T23:19:14.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ChickenNugget\\Documents\\REPOSITORIO\\ARQ\\00.SOA_SIN_BDD_GR02\\02.SOAP_DOTNET_CONUNI_GR02\\02.CLICON\\ConUni_Con_DotNet_G02\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ChickenNugget\\Documents\\REPOSITORIO\\ARQ\\00.SOA_SIN_BDD_GR02\\02.SOAP_DOTNET_CONUNI_GR02\\02.CLICON\\ConUni_Con_DotNet_G02\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T23:16:47.545Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
