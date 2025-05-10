@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ConversionUnidadesCliWeb_Monster_GR2.props" />
+</Project>

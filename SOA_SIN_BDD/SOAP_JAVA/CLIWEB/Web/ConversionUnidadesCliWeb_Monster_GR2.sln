@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversionUnidadesCliWeb_Monster_GR2", "ConversionUnidadesCliWeb_Monster_GR2\ConversionUnidadesCliWeb_Monster_GR2.csproj", "{6D712C8B-FBC0-44B1-83DB-1669139D1949}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D712C8B-FBC0-44B1-83DB-1669139D1949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D712C8B-FBC0-44B1-83DB-1669139D1949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D712C8B-FBC0-44B1-83DB-1669139D1949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D712C8B-FBC0-44B1-83DB-1669139D1949}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3A38CF9-15DD-4F2B-914F-3E8F3BB2CE63}
+	EndGlobalSection
+EndGlobal

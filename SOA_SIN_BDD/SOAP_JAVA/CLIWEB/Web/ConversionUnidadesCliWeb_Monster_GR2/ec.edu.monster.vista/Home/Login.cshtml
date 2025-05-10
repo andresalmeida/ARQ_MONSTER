@@ -1,0 +1,118 @@
+﻿@{
+    ViewData["Title"] = "Login";
+}
+
+<style>
+    body {
+        background-image: url('/images/loginNuevo.png'); /* Cambiar por tu URL de imagen */
+        background-size: auto;
+        background-position: center;
+        background-repeat: no-repeat;
+        min-height: 100vh;
+        margin: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    input::placeholder {
+        color: #38b6ff;
+        opacity: 0.7;
+        font-family: 'KG Primary Penmanship', cursive;
+    }
+
+</style>
+
+
+    <form asp-action="Login" method="post">
+        <!-- Usuario -->
+        <link href="https://fonts.cdnfonts.com/css/kg-primary-penmanship" rel="stylesheet">
+
+        <div class="form-group" style="margin: 198px 0 50px 0; position: relative;">
+            <input type="text"
+                   class="form-control"
+                   id="username"
+                   name="username"
+                   placeholder="Usuario"
+                   required
+                   style="width: 60%;
+                   padding: 1.5px;
+                   position: relative;
+                   left: 42%;
+                   transform: translateX(-50%);
+                   color: #38b6ff;
+                   font-size: 4.5em;
+                   font-family: 'KG Primary Penmanship', cursive;
+                   letter-spacing: 1.5px;">
+        </div>
+
+
+        <!-- Contraseña -->
+        <div class="form-group" style="margin: 0 0 0 0; position: relative;">
+            <!-- Ajustar margen inferior -->
+            <input type="password"
+                   class="form-control"
+                   id="password"
+                   name="password"
+                   placeholder="Contraseña"
+                   required
+                   style="width: 50%;
+                   padding: 1.5px;
+                   position: relative;
+                   left: 47%;
+                   transform: translateX(-50%);
+                   color: #38b6ff;
+                   font-size: 4.5em;
+                   font-family: 'KG Primary Penmanship', cursive;
+                   letter-spacing: 1.5px;">
+        </div>
+
+    <!-- Botones -->
+    <div style="position: relative;
+            margin: 57px 0 0 -58px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 20px;">
+
+        <!-- Botón Ingresar (izquierda) -->
+        <button type="submit"
+                style="padding: 25px 165px;
+                   background: #ff914d;
+                   color: white;
+                   border: 2px solid #ff914d;
+                   border-radius: 10px;
+                   font-size: 2.5em;
+                   font-family: 'KG Primary Penmanship', cursive;
+                   font-weight: bold;
+                   transition: all 0.3s ease;
+                   margin-left: -150px;">
+            <!-- Margen izquierdo -->
+            Ingresar
+        </button>
+
+        <!-- Botón Salir (derecha, más grande) -->
+        <a href="/Home"
+           style="padding: 25px 200px; /* Tamaño aumentado */
+          background: #ff914d;
+          color: white;
+          text-decoration: none;
+          border: 2px solid #ff914d;
+          border-radius: 10px;
+          font-size: 2.5em; /* Texto más grande */
+          font-family: 'KG Primary Penmanship', cursive;
+          font-weight: bold;
+          transition: all 0.3s ease;
+          margin-right: 360px;">
+            <!-- Margen derecho -->
+            Salir
+        </a>
+    </div>
+
+        @if (ViewBag.Error != null)
+        {
+            <div class="alert alert-danger mt-3">
+                <strong>Error:</strong> @ViewBag.Error
+            </div>
+        }
+    </form>

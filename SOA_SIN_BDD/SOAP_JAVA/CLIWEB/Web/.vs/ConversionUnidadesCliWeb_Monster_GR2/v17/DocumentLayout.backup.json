@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pspgo\\Desktop\\Arquitectura\\SOAP_SIN_BDD_GR2\\01.SOAP_JAVA_CONUNI_GR02\\02.CLIWEB\\ConversionUnidadesCliWeb_Monster_GR2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D712C8B-FBC0-44B1-83DB-1669139D1949}|ConversionUnidadesCliWeb_Monster_GR2\\ConversionUnidadesCliWeb_Monster_GR2.csproj|c:\\users\\pspgo\\desktop\\arquitectura\\soap_sin_bdd_gr2\\01.soap_java_conuni_gr02\\02.cliweb\\conversionunidadescliweb_monster_gr2\\conversionunidadescliweb_monster_gr2\\ec.edu.monster.vista\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D712C8B-FBC0-44B1-83DB-1669139D1949}|ConversionUnidadesCliWeb_Monster_GR2\\ConversionUnidadesCliWeb_Monster_GR2.csproj|solutionrelative:conversionunidadescliweb_monster_gr2\\ec.edu.monster.vista\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D712C8B-FBC0-44B1-83DB-1669139D1949}|ConversionUnidadesCliWeb_Monster_GR2\\ConversionUnidadesCliWeb_Monster_GR2.csproj|c:\\users\\pspgo\\desktop\\arquitectura\\soap_sin_bdd_gr2\\01.soap_java_conuni_gr02\\02.cliweb\\conversionunidadescliweb_monster_gr2\\conversionunidadescliweb_monster_gr2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D712C8B-FBC0-44B1-83DB-1669139D1949}|ConversionUnidadesCliWeb_Monster_GR2\\ConversionUnidadesCliWeb_Monster_GR2.csproj|solutionrelative:conversionunidadescliweb_monster_gr2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D712C8B-FBC0-44B1-83DB-1669139D1949}|ConversionUnidadesCliWeb_Monster_GR2\\ConversionUnidadesCliWeb_Monster_GR2.csproj|c:\\users\\pspgo\\desktop\\arquitectura\\soap_sin_bdd_gr2\\01.soap_java_conuni_gr02\\02.cliweb\\conversionunidadescliweb_monster_gr2\\conversionunidadescliweb_monster_gr2\\ec.edu.monster.vista\\home\\conversor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D712C8B-FBC0-44B1-83DB-1669139D1949}|ConversionUnidadesCliWeb_Monster_GR2\\ConversionUnidadesCliWeb_Monster_GR2.csproj|solutionrelative:conversionunidadescliweb_monster_gr2\\ec.edu.monster.vista\\home\\conversor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D712C8B-FBC0-44B1-83DB-1669139D1949}|ConversionUnidadesCliWeb_Monster_GR2\\ConversionUnidadesCliWeb_Monster_GR2.csproj|c:\\users\\pspgo\\desktop\\arquitectura\\soap_sin_bdd_gr2\\01.soap_java_conuni_gr02\\02.cliweb\\conversionunidadescliweb_monster_gr2\\conversionunidadescliweb_monster_gr2\\ec.edu.monster.controlador\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D712C8B-FBC0-44B1-83DB-1669139D1949}|ConversionUnidadesCliWeb_Monster_GR2\\ConversionUnidadesCliWeb_Monster_GR2.csproj|solutionrelative:conversionunidadescliweb_monster_gr2\\ec.edu.monster.controlador\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 262,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\pspgo\\Desktop\\Arquitectura\\SOAP_SIN_BDD_GR2\\01.SOAP_JAVA_CONUNI_GR02\\02.CLIWEB\\ConversionUnidadesCliWeb_Monster_GR2\\ConversionUnidadesCliWeb_Monster_GR2\\ec.edu.monster.vista\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "ConversionUnidadesCliWeb_Monster_GR2\\ec.edu.monster.vista\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\pspgo\\Desktop\\Arquitectura\\SOAP_SIN_BDD_GR2\\01.SOAP_JAVA_CONUNI_GR02\\02.CLIWEB\\ConversionUnidadesCliWeb_Monster_GR2\\ConversionUnidadesCliWeb_Monster_GR2\\ec.edu.monster.vista\\Home\\Login.cshtml",
+              "RelativeToolTip": "ConversionUnidadesCliWeb_Monster_GR2\\ec.edu.monster.vista\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T03:46:18.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\pspgo\\Desktop\\Arquitectura\\SOAP_SIN_BDD_GR2\\01.SOAP_JAVA_CONUNI_GR02\\02.CLIWEB\\ConversionUnidadesCliWeb_Monster_GR2\\ConversionUnidadesCliWeb_Monster_GR2\\ec.edu.monster.controlador\\HomeController.cs",
+              "RelativeDocumentMoniker": "ConversionUnidadesCliWeb_Monster_GR2\\ec.edu.monster.controlador\\HomeController.cs",
+              "ToolTip": "C:\\Users\\pspgo\\Desktop\\Arquitectura\\SOAP_SIN_BDD_GR2\\01.SOAP_JAVA_CONUNI_GR02\\02.CLIWEB\\ConversionUnidadesCliWeb_Monster_GR2\\ConversionUnidadesCliWeb_Monster_GR2\\ec.edu.monster.controlador\\HomeController.cs",
+              "RelativeToolTip": "ConversionUnidadesCliWeb_Monster_GR2\\ec.edu.monster.controlador\\HomeController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T03:45:12.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pspgo\\Desktop\\Arquitectura\\SOAP_SIN_BDD_GR2\\01.SOAP_JAVA_CONUNI_GR02\\02.CLIWEB\\ConversionUnidadesCliWeb_Monster_GR2\\ConversionUnidadesCliWeb_Monster_GR2\\Program.cs",
+              "RelativeDocumentMoniker": "ConversionUnidadesCliWeb_Monster_GR2\\Program.cs",
+              "ToolTip": "C:\\Users\\pspgo\\Desktop\\Arquitectura\\SOAP_SIN_BDD_GR2\\01.SOAP_JAVA_CONUNI_GR02\\02.CLIWEB\\ConversionUnidadesCliWeb_Monster_GR2\\ConversionUnidadesCliWeb_Monster_GR2\\Program.cs",
+              "RelativeToolTip": "ConversionUnidadesCliWeb_Monster_GR2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T03:43:24.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Conversor.cshtml",
+              "DocumentMoniker": "C:\\Users\\pspgo\\Desktop\\Arquitectura\\SOAP_SIN_BDD_GR2\\01.SOAP_JAVA_CONUNI_GR02\\02.CLIWEB\\ConversionUnidadesCliWeb_Monster_GR2\\ConversionUnidadesCliWeb_Monster_GR2\\ec.edu.monster.vista\\Home\\Conversor.cshtml",
+              "RelativeDocumentMoniker": "ConversionUnidadesCliWeb_Monster_GR2\\ec.edu.monster.vista\\Home\\Conversor.cshtml",
+              "ToolTip": "C:\\Users\\pspgo\\Desktop\\Arquitectura\\SOAP_SIN_BDD_GR2\\01.SOAP_JAVA_CONUNI_GR02\\02.CLIWEB\\ConversionUnidadesCliWeb_Monster_GR2\\ConversionUnidadesCliWeb_Monster_GR2\\ec.edu.monster.vista\\Home\\Conversor.cshtml",
+              "RelativeToolTip": "ConversionUnidadesCliWeb_Monster_GR2\\ec.edu.monster.vista\\Home\\Conversor.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-04T03:43:10.319Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 138,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
